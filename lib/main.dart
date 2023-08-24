@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:internet_connection_app/home_screen.dart';
+import 'package:internet_connection_app/screens/home_screen.dart';
 
 void main() {
   runApp(Application());
